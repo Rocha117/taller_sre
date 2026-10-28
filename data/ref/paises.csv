@@ -1,5 +1,5 @@
-country_code,iso3,country_name,region
-AR,ARG,Argentina,Cono Sur
-CL,CHL,Perú,Andina
-CO,COL,Colombia,Andina
-PE,PER,Perú,Andina
+country_code,country_name,region
+PE,Perú,Andina
+CL,Chile,Cono Sur
+AR,Argentina,Cono Sur
+CO,Colombia,Andina
